@@ -1,1 +1,1 @@
-print("Wassup Buddy!! v9")
+print("this is demo python code")
